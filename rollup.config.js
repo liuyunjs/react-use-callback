@@ -12,7 +12,7 @@ import commonjs from 'rollup-plugin-commonjs';
 import pkg from './package.json';
 
 const typescriptConfig = {
-  cacheRoot: 'tmp/.rpt2_cache',
+  // cacheRoot: 'tmp/.rpt2_cache',
   typescript: require('typescript'),
   // useTsconfigDeclarationDir: true,
 };
