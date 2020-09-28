@@ -1,6 +1,6 @@
 {
   "name": "react-use-callback",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Solve the useCallback dependency trap \n 解决useCallback依赖陷阱",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
